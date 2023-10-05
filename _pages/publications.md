@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [My Google Scholar](https://scholar.google.com/citations?user=Gvs5nz8AAAAJ)
+You can also find my publications on [My Google Scholar](https://scholar.google.com/citations?user=Gvs5nz8AAAAJ)
 
 {% include base_path %}
 
