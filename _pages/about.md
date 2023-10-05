@@ -21,5 +21,8 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 + [2022-02] One paper is shared at CVPR 2022 Art Of Robustness Workshop, thanks for all of my collaborators. *"Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation"* **Xiaogeng Liu**, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.
 + [2022-02] <font color=red> One paper is accepted by CVPR 2022</font>, thanks for all of my collaborators. *"Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer"* Shengshan Hu, **Xiaogeng Liu**, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.
 + [2022-01] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang) at [Tianchi: AAAI2022 Secure AI Challenger Program Phase 8: Data-Centric Robust Machine Learning Competition](https://tianchi.aliyun.com/competition/entrance/531939/introduction) (Rank 8/3691).
+<details>
+  <summary>**More**</summary>
 + [2021-10] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang) at [OPPO AI Challenge - Face Recognition Competition](https://security.oppo.com/challenge/home.html) (Rank 14/2349).
 + [2021-04] <font color=red> One paper is accepted by ACM MM 2021</font>, thanks for all of my collaborators. *"Advhash: Set-to-set Targeted Attack on Deep Hashing with One Single Adversarial Patch"* Shengshan Hu, Yechao Zhang, **Xiaogeng Liu**, Leo Yu Zhang, Minghui Li, Hai Jin.
+</details>
