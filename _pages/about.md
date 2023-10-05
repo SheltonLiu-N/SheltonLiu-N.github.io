@@ -14,15 +14,15 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 # News
 + [2023-07] <font color=red> One paper is accepted by S&P 2024</font>, thanks for all of my collaborators. *"Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability"* Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, **Xiaogeng Liu**, Wei Wan, Hai Jin.
-+ + [2023-07] <font color=red> One paper is accepted by ACM MM 2023</font>, thanks for all of my collaborators. *"PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness"* Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, **Xiaogeng Liu**, Xianlong Wang, Leo Yu Zhang.
++ [2023-07] <font color=red> One paper is accepted by ACM MM 2023</font>, thanks for all of my collaborators. *"PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness"* Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, **Xiaogeng Liu**, Xianlong Wang, Leo Yu Zhang.
 + [2023-02] <font color=red> One paper is accepted by CVPR 2023</font>, thanks for all of my collaborators. *"Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency"* **Xiaogeng Liu**, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.
+<details>
+  <summary>**More**</summary>
 + [2022-09] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang, Ziqi Zou, Xianlong Wang) at [AISC2022-Physical World Adversarial Face Recognition](https://www.zgc-aisc.com/en) (Rank 5/178).
 + [2022-06] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang, Shengshan Hu) wins the third prize at [CVPR2022 Art Of Robustness Workshop: Open-Set Defence](https://artofrobust.github.io/#challenge) (Rank 3/156).
 + [2022-02] One paper is shared at CVPR 2022 Art Of Robustness Workshop, thanks for all of my collaborators. *"Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation"* **Xiaogeng Liu**, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.
 + [2022-02] <font color=red> One paper is accepted by CVPR 2022</font>, thanks for all of my collaborators. *"Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer"* Shengshan Hu, **Xiaogeng Liu**, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.
 + [2022-01] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang) at [Tianchi: AAAI2022 Secure AI Challenger Program Phase 8: Data-Centric Robust Machine Learning Competition](https://tianchi.aliyun.com/competition/entrance/531939/introduction) (Rank 8/3691).
-<details>
-  <summary>**More**</summary>
 + [2021-10] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang) at [OPPO AI Challenge - Face Recognition Competition](https://security.oppo.com/challenge/home.html) (Rank 14/2349).
 + [2021-04] <font color=red> One paper is accepted by ACM MM 2021</font>, thanks for all of my collaborators. *"Advhash: Set-to-set Targeted Attack on Deep Hashing with One Single Adversarial Patch"* Shengshan Hu, Yechao Zhang, **Xiaogeng Liu**, Leo Yu Zhang, Minghui Li, Hai Jin.
 </details>
