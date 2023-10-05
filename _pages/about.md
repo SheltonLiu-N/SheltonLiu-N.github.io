@@ -44,6 +44,10 @@ My research interests lie in trustworthy AI, especially the robustness of machin
         "Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation" <strong>Xiaogeng Liu</strong>, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.
     </li>
     <li>
+        [2022-09] I am awarded the <span style="color:red">Chinese National Scholarship</span> for Graduate Students.
+    </li>
+    <li>
+    <li>
         [2022-02] <span style="color:red">One paper is accepted by CVPR 2022</span>, thanks for all of my collaborators. 
         "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer" Shengshan Hu, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.
     </li>
