@@ -14,6 +14,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 # News
 + [2023-07] <font color=red> One paper is accepted by S&P 2024</font>, thanks for all of my collaborators. *"Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability"* Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, **Xiaogeng Liu**, Wei Wan, Hai Jin.
++ + [2023-07] <font color=red> One paper is accepted by ACM MM 2023</font>, thanks for all of my collaborators. *"PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness"* Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, **Xiaogeng Liu**, Xianlong Wang, Leo Yu Zhang.
 + [2023-02] <font color=red> One paper is accepted by CVPR 2023</font>, thanks for all of my collaborators. *"Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency"* **Xiaogeng Liu**, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.
 + [2022-09] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang, Ziqi Zou, Xianlong Wang) at [AISC2022-Physical World Adversarial Face Recognition](https://www.zgc-aisc.com/en) (Rank 5/178).
 + [2022-06] Our team (Haoyu Wang, **Xiaogeng Liu**, Yechao Zhang, Shengshan Hu) wins the third prize at [CVPR2022 Art Of Robustness Workshop: Open-Set Defence](https://artofrobust.github.io/#challenge) (Rank 3/156).
