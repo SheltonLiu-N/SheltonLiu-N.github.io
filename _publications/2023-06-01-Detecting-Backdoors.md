@@ -1,5 +1,5 @@
 ---
-title: "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer"
+title: "Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency"
 collection: publications
 permalink: /publication/2023-06-01-Detecting-Backdoors
 excerpt: 'In this paper, we propose the test-time corruption robustness consistency evaluation (TeCo), a novel test-time trigger sample detection method that only needs the hard-label outputs of the victim models without any extra information.'
