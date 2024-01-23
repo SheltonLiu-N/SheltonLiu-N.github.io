@@ -14,6 +14,10 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 # News
 <ul>
     <li>
+        [2024-01] <span style="color:red">One paper is accepted by ICLR 2024</span>, thanks for all of my collaborators. 
+        "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models" <strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.
+    </li>
+    <li>
         [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. 
         "Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability" Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.
     </li>
@@ -21,15 +25,15 @@ My research interests lie in trustworthy AI, especially the robustness of machin
         [2023-07] <span style="color:red">One paper is accepted by ACM MM 2023</span>, thanks for all of my collaborators. 
         "PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness" Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Xianlong Wang, Leo Yu Zhang.
     </li>
-    <li>
-        [2023-02] <span style="color:red">One paper is accepted by CVPR 2023</span>, thanks for all of my collaborators. 
-        "Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency" <strong>Xiaogeng Liu</strong>, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.
-    </li>
 </ul>
 
 <details>
   <summary>More</summary>
 <ul>
+    <li>
+        [2023-02] <span style="color:red">One paper is accepted by CVPR 2023</span>, thanks for all of my collaborators. 
+        "Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency" <strong>Xiaogeng Liu</strong>, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.
+    </li>
     <li>
         [2022-09] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Ziqi Zou, Xianlong Wang) at 
         <a href="https://www.zgc-aisc.com/en">AISC2022-Physical World Adversarial Face Recognition</a> (Rank 5/178).
