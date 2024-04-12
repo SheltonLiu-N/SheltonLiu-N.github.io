@@ -14,7 +14,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 # News
 <ul>
     <li>
-        [2024-01] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. 
+        [2024-02] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. 
         "Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models" Zhiyuan Yu, <strong>Xiaogeng Liu</strong>, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang.
     </li>
     <li>
