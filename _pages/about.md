@@ -26,6 +26,9 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 (* represents equal contribution)
 <ul>
     <li>
+        [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreaking attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
+    </li>
+    <li>
         [2024-07] <span style="color:red">One paper is accepted by COLM 2024</span>, thanks for all of my collaborators. <br> 
          <a href="https://arxiv.org/abs/2404.03027" target="_blank">"JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks"</a> <br>
         <i>Weidi Luo*, Siyuan Ma*, <strong>Xiaogeng Liu*</strong>, Xiaoyu Guo, Chaowei Xiao.</i>
@@ -113,6 +116,9 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 [**Project Page**](https://autodans.github.io/AutoDAN/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:ULOm3_A8WrAC'></span></strong>
 - This pioneering work focuses on the adversarial robustness of the safety alignment of LLMs, proposing semantically meaningful jailbreak attacks.
+</div>
+</div>
+
 - It is one of the strongest jailbreak attacks in public benchmarks ([Harmbench](https://www.harmbench.org), [Easyjailbreak](http://easyjailbreak.org)).
 
 # 🎖 Honors and Awards
