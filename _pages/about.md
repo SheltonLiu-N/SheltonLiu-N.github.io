@@ -17,14 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Xiaogeng Liu, currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about), who specializes in security, privacy, and machine learning, with the goal of building socially responsible machine learning systems. I obtained my Master's degree from Huazhong University of Science and Technology in 2023, and was fortunate to be a member of [TAI group](http://trustai.group), mentored by Professor [Shengshan Hu](http://faculty.hust.edu.cn/HUSHENGSHAN/zh_CN/index.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of attacks or unexpected inputs. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Gvs5nz8AAAAJ'>google scholar citations <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=Gvs5nz8AAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xiaogeng.liu@wisc.edu**
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<ul>
+    <li>
+        [2024-02] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. 
+        "Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models" Zhiyuan Yu, <strong>Xiaogeng Liu</strong>, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang.
+    </li>
+    <li>
+        [2024-01] <span style="color:red">One paper is accepted by ICLR 2024</span>, thanks for all of my collaborators. 
+        "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models" <strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.
+    </li>
+    <li>
+        [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. 
+        "Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability" Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.
+    </li>
+</ul>
+
+<details>
+  <summary>More</summary>
+<ul>
+    <li>
+        [2023-07] <span style="color:red">One paper is accepted by ACM MM 2023</span>, thanks for all of my collaborators. 
+        "PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness" Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Xianlong Wang, Leo Yu Zhang.
+    </li>
+    <li>
+        [2023-02] <span style="color:red">One paper is accepted by CVPR 2023</span>, thanks for all of my collaborators. 
+        "Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency" <strong>Xiaogeng Liu</strong>, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.
+    </li>
+    <li>
+        [2022-09] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Ziqi Zou, Xianlong Wang) at 
+        <a href="https://www.zgc-aisc.com/en">AISC2022-Physical World Adversarial Face Recognition</a> (Rank 5/178).
+    </li>
+    <li>
+        [2022-06] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Shengshan Hu) wins the third prize at 
+        <a href="https://artofrobust.github.io/#challenge">CVPR2022 Art Of Robustness Workshop: Open-Set Defence</a> (Rank 3/156).
+    </li>
+    <li>
+        [2022-02] One paper is shared at CVPR 2022 Art Of Robustness Workshop, thanks for all of my collaborators. 
+        "Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation" <strong>Xiaogeng Liu</strong>, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.
+    </li>
+    <li>
+        [2022-09] I am awarded the <span style="color:red">Chinese National Scholarship</span> for Graduate Students.
+    </li>
+    <li>
+        [2022-02] <span style="color:red">One paper is accepted by CVPR 2022</span>, thanks for all of my collaborators. 
+        "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer" Shengshan Hu, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.
+    </li>
+    <li>
+        [2022-01] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang) at 
+        <a href="https://tianchi.aliyun.com/competition/entrance/531939/introduction">Tianchi: AAAI2022 Secure AI Challenger Program Phase 8: Data-Centric Robust Machine Learning Competition</a> (Rank 8/3691).
+    </li>
+    <li>
+        [2021-10] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang) at 
+        <a href="https://security.oppo.com/challenge/home.html">OPPO AI Challenge - Face Recognition Competition</a> (Rank 14/2349).
+    </li>
+    <li>
+        [2021-04] <span style="color:red">One paper is accepted by ACM MM 2021</span>, thanks for all of my collaborators. 
+        "Advhash: Set-to-set Targeted Attack on Deep Hashing with One Single Adversarial Patch" Shengshan Hu, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Leo Yu Zhang, Minghui Li, Hai Jin.
+    </li>
+</ul>
+</details>
 
 # 📝 Publications 
 
