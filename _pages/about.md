@@ -138,7 +138,7 @@ Zhiyuan Yu, **Xiaogeng Liu**, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Z
 
 [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)
 
-Yu Wang*, **Xiaogeng Liu***, Yu Li, Muhao Chen, Chaowei Xiao
+Yu Wang*, <strong>Xiaogeng Liu*</strong>, Yu Li, Muhao Chen, Chaowei Xiao
 
 [**Project Page**](https://rain305f.github.io/AdaShield-Project/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:0EnyYjriUFMC'></span></strong>
 - This paper presents AdaShield, a novel adaptive defense mechanism designed to safeguard MLLMs against structure-based jailbreak attacks by using defense prompts without requiring fine-tuning or additional training.
@@ -151,7 +151,7 @@ Yu Wang*, **Xiaogeng Liu***, Yu Li, Muhao Chen, Chaowei Xiao
 
 [JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)
 
-Weidi Luo*, Siyuan Ma*, **Xiaogeng Liu***, Xiaoyu Guo, Chaowei Xiao
+Weidi Luo*, Siyuan Ma*, <strong>Xiaogeng Liu*</strong>, Xiaoyu Guo, Chaowei Xiao
 
 [**Project Page**](https://eddyluo1232.github.io/JailBreakV28K/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:8k81kl-MbHgC'></span></strong>
 - This work introduces JailBreakV-28K, a comprehensive benchmark for evaluating the robustness of MLLMs against both text-based and image-based jailbreak attacks, and RedTeam-2K, a dataset of 2,000 malicious queries covering 16 safety policies aimed at testing the vulnerabilities of LLMs and MLLMs.
