@@ -115,8 +115,47 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 **Xiaogeng Liu**, Nan Xu, Muhao Chen, Chaowei Xiao
 
 [**Project Page**](https://autodans.github.io/AutoDAN/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:ULOm3_A8WrAC'></span></strong>
-- This pioneering work focuses on the adversarial robustness of the safety alignment of LLMs, proposing semantically meaningful jailbreak attacks.
+- This pioneering work focuses on the adversarial robustness of the safety alignment of LLMs, and introduces AutoDAN, a novel hierarchical genetic algorithm that automatically generates stealthy jailbreak prompts for LLMs, preserving semantic meaningfulness while bypassing existing defenses like perplexity detection.
 - It is one of the strongest jailbreak attacks in public benchmarks ([Harmbench](https://www.harmbench.org), [Easyjailbreak](http://easyjailbreak.org)).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2024 Distinguished Paper Award</div><img src='images/dont_listen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan)
+
+Zhiyuan Yu, **Xiaogeng Liu**, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang
+
+[**Project Page**](https://github.com/WUSTL-CSPL/LLMJailbreak) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:5nxA0vEk-isC'></span></strong>
+- This work is a comprehensive systematization of jailbreak prompts in LLMs, categorizing them into five types and analyzing their effectiveness based on 448 prompts collected from online forums.
+- We also introduce a human-AI cooperative framework for automating jailbreak prompt generation, achieving success in transforming 766 failed prompts into harmful outputs, demonstrating the feasibility of automating such attacks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/adashield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)
+
+Yu Wang*, **Xiaogeng Liu***, Yu Li, Muhao Chen, Chaowei Xiao
+
+[**Project Page**](https://rain305f.github.io/AdaShield-Project/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:0EnyYjriUFMC'></span></strong>
+- This paper presents AdaShield, a novel adaptive defense mechanism designed to safeguard MLLMs against structure-based jailbreak attacks by using defense prompts without requiring fine-tuning or additional training.
+- AdaShield achieves state-of-the-art performance, significantly improving defense robustness across multiple MLLMs while maintaining general performance on benign tasks, through its adaptive auto-refinement framework that customizes defense prompts to various attack scenarios.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/jailbreakv28k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)
+
+Weidi Luo*, Siyuan Ma*, **Xiaogeng Liu***, Xiaoyu Guo, Chaowei Xiao
+
+[**Project Page**](https://eddyluo1232.github.io/JailBreakV28K/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:8k81kl-MbHgC'></span></strong>
+- This work introduces JailBreakV-28K, a comprehensive benchmark for evaluating the robustness of MLLMs against both text-based and image-based jailbreak attacks, and RedTeam-2K, a dataset of 2,000 malicious queries covering 16 safety policies aimed at testing the vulnerabilities of LLMs and MLLMs.
+- The benchmark highlights the transferability of jailbreak techniques from LLMs to MLLMs, revealing significant vulnerabilities in MLLMs' ability to handle malicious inputs across text and visual modalities.
 </div>
 </div>
 
