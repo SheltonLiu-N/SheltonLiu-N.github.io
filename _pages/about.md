@@ -116,10 +116,22 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 [**Project Page**](https://autodans.github.io/AutoDAN/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:ULOm3_A8WrAC'></span></strong>
 - This pioneering work focuses on the adversarial robustness of the safety alignment of LLMs, proposing semantically meaningful jailbreak attacks.
+- It is one of the strongest jailbreak attacks in public benchmarks ([Harmbench](https://www.harmbench.org), [Easyjailbreak](http://easyjailbreak.org)).
 </div>
 </div>
 
-- It is one of the strongest jailbreak attacks in public benchmarks ([Harmbench](https://www.harmbench.org), [Easyjailbreak](http://easyjailbreak.org)).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/teco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Detecting_Backdoors_During_the_Inference_Stage_Based_on_Corruption_Robustness_CVPR_2023_paper.html)
+
+**Xiaogeng Liu**, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao
+
+[**Project Page**](https://github.com/CGCL-codes/TeCo) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:2osOgNQ5qMEC'></span></strong>
+- This paper introduces TeCo, a novel test-time trigger sample detection method that leverages the anomaly in corruption robustness consistency between clean and trigger samples, requiring only hard-label outputs and no additional data or assumptions.
+- TeCo significantly outperforms state-of-the-art methods on various backdoor attacks and benchmarks, improving the AUROC by 10% and achieving 5 times the stability of existing methods.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
