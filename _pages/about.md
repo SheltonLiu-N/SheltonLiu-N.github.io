@@ -25,16 +25,29 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 # 🔥 News
 <ul>
     <li>
-        [2024-02] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. 
-        "Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models" Zhiyuan Yu, <strong>Xiaogeng Liu</strong>, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang.
+        [2024-07] <span style="color:red">One paper is accepted by COLM 2024</span>, thanks for all of my collaborators. <br> 
+        "JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks" <br>
+        <i>Weidi Luo*, Siyuan Ma*, <strong>Xiaogeng Liu*</strong>, Xiaoyu Guo, Chaowei Xiao.</i>
     </li>
     <li>
-        [2024-01] <span style="color:red">One paper is accepted by ICLR 2024</span>, thanks for all of my collaborators. 
-        "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models" <strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.
+        [2024-07] <span style="color:red">One paper is accepted by ECCV 2024</span>, thanks for all of my collaborators. <br>
+        "AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting" <br>
+        <i>Yu Wang*, <strong>Xiaogeng Liu*</strong>, Yu Li, Muhao Chen, Chaowei Xiao.</i>
     </li>
     <li>
-        [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. 
-        "Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability" Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.
+        [2024-02] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. <br>
+        "Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models" <br>
+        <i>Zhiyuan Yu, <strong>Xiaogeng Liu</strong>, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang.</i>
+    </li>
+    <li>
+        [2024-01] <span style="color:red">One paper is accepted by ICLR 2024</span>, thanks for all of my collaborators. <br>
+        "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models" <br>
+        <i><strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.</i>
+    </li>
+    <li>
+        [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. <br>
+        "Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability" <br>
+        <i>Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.</i>
     </li>
 </ul>
 
@@ -42,43 +55,48 @@ My research interests lie in trustworthy AI, especially the robustness of machin
   <summary>More</summary>
 <ul>
     <li>
-        [2023-07] <span style="color:red">One paper is accepted by ACM MM 2023</span>, thanks for all of my collaborators. 
-        "PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness" Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Xianlong Wang, Leo Yu Zhang.
+        [2023-07] <span style="color:red">One paper is accepted by ACM MM 2023</span>, thanks for all of my collaborators. <br>
+        "PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness" <br>
+        <i>Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Xianlong Wang, Leo Yu Zhang.</i>
     </li>
     <li>
-        [2023-02] <span style="color:red">One paper is accepted by CVPR 2023</span>, thanks for all of my collaborators. 
-        "Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency" <strong>Xiaogeng Liu</strong>, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.
+        [2023-02] <span style="color:red">One paper is accepted by CVPR 2023</span>, thanks for all of my collaborators. <br>
+        "Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency" <br>
+        <i><strong>Xiaogeng Liu</strong>, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.</i>
     </li>
     <li>
-        [2022-09] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Ziqi Zou, Xianlong Wang) at 
+        [2022-09] Our team (<i>Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Ziqi Zou, Xianlong Wang</i>) at 
         <a href="https://www.zgc-aisc.com/en">AISC2022-Physical World Adversarial Face Recognition</a> (Rank 5/178).
     </li>
     <li>
-        [2022-06] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Shengshan Hu) wins the third prize at 
+        [2022-06] Our team (<i>Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Shengshan Hu</i>) wins the third prize at 
         <a href="https://artofrobust.github.io/#challenge">CVPR2022 Art Of Robustness Workshop: Open-Set Defence</a> (Rank 3/156).
     </li>
     <li>
-        [2022-02] One paper is shared at CVPR 2022 Art Of Robustness Workshop, thanks for all of my collaborators. 
-        "Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation" <strong>Xiaogeng Liu</strong>, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.
+        [2022-02] One paper is shared at CVPR 2022 Art Of Robustness Workshop, thanks for all of my collaborators. <br>
+        "Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation" <br>
+        <i><strong>Xiaogeng Liu</strong>, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.</i>
     </li>
     <li>
-        [2022-09] I am awarded the <span style="color:red">Chinese National Scholarship</span> for Graduate Students.
+        [2022-09] I am awarded the <span style="color:red">Chinese National Scholarship</span> for Graduate Students (Top 1%)!.
     </li>
     <li>
-        [2022-02] <span style="color:red">One paper is accepted by CVPR 2022</span>, thanks for all of my collaborators. 
-        "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer" Shengshan Hu, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.
+        [2022-02] <span style="color:red">One paper is accepted by CVPR 2022</span>, thanks for all of my collaborators. <br>
+        "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer" <br>
+        <i>Shengshan Hu, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.</i>
     </li>
     <li>
-        [2022-01] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang) at 
+        [2022-01] Our team (<i>Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang</i>) at 
         <a href="https://tianchi.aliyun.com/competition/entrance/531939/introduction">Tianchi: AAAI2022 Secure AI Challenger Program Phase 8: Data-Centric Robust Machine Learning Competition</a> (Rank 8/3691).
     </li>
     <li>
-        [2021-10] Our team (Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang) at 
+        [2021-10] Our team (<i>Haoyu Wang, <strong>Xiaogeng Liu</strong>, Yechao Zhang</i>) at 
         <a href="https://security.oppo.com/challenge/home.html">OPPO AI Challenge - Face Recognition Competition</a> (Rank 14/2349).
     </li>
     <li>
-        [2021-04] <span style="color:red">One paper is accepted by ACM MM 2021</span>, thanks for all of my collaborators. 
-        "Advhash: Set-to-set Targeted Attack on Deep Hashing with One Single Adversarial Patch" Shengshan Hu, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Leo Yu Zhang, Minghui Li, Hai Jin.
+        [2021-04] <span style="color:red">One paper is accepted by ACM MM 2021</span>, thanks for all of my collaborators. <br>
+        "Advhash: Set-to-set Targeted Attack on Deep Hashing with One Single Adversarial Patch" <br>
+        <i>Shengshan Hu, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Leo Yu Zhang, Minghui Li, Hai Jin.</i>
     </li>
 </ul>
 </details>
