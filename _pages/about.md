@@ -23,7 +23,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 
 # 🔥 News
-(* represents equal contribution)
+(<sup>*</sup> represents equal contribution)
 <ul>
     <li>
         [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreaking attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
@@ -31,12 +31,12 @@ My research interests lie in trustworthy AI, especially the robustness of machin
     <li>
         [2024-07] <span style="color:red">One paper is accepted by COLM 2024</span>, thanks for all of my collaborators. <br> 
          <a href="https://arxiv.org/abs/2404.03027" target="_blank">"JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks"</a> <br>
-        <i>Weidi Luo*, Siyuan Ma*, <strong>Xiaogeng Liu*</strong>, Xiaoyu Guo, Chaowei Xiao.</i>
+        <i>Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Xiaoyu Guo, Chaowei Xiao.</i>
     </li>
     <li>
         [2024-07] <span style="color:red">One paper is accepted by ECCV 2024</span>, thanks for all of my collaborators. <br>
         <a href="https://arxiv.org/abs/2403.09513" target="_blank">"AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting"</a> <br>
-        <i>Yu Wang*, <strong>Xiaogeng Liu*</strong>, Yu Li, Muhao Chen, Chaowei Xiao.</i>
+        <i>Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Chen, Chaowei Xiao.</i>
     </li>
     <li>
         [2024-02] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. <br>
