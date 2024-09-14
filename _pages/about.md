@@ -114,7 +114,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 **Xiaogeng Liu**, Nan Xu, Muhao Chen, Chaowei Xiao
 
-[**Project Page**](https://autodans.github.io/AutoDAN/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:ULOm3_A8WrAC'></span></strong>
+[**Project Page**](https://autodans.github.io/AutoDAN/) \| <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:ULOm3_A8WrAC'></span></strong> \| [![](https://img.shields.io/github/stars/SheltonLiu-N/AutoDAN?style=social&label=Code Stars)](https://github.com/SheltonLiu-N/AutoDAN)
 - This pioneering work focuses on the adversarial robustness of the safety alignment of LLMs, and introduces AutoDAN, a novel hierarchical genetic algorithm that automatically generates stealthy jailbreak prompts for LLMs, preserving semantic meaningfulness while bypassing existing defenses like perplexity detection.
 - It is one of the strongest jailbreak attacks in public benchmarks ([Harmbench](https://www.harmbench.org), [Easyjailbreak](http://easyjailbreak.org)).
 </div>
