@@ -114,7 +114,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 **Xiaogeng Liu**, Nan Xu, Muhao Chen, Chaowei Xiao
 
-[**Project Page**](https://autodans.github.io/AutoDAN/) \| <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:ULOm3_A8WrAC'></span></strong> \| [![](https://img.shields.io/github/stars/SheltonLiu-N/AutoDAN?style=social&label=Code Stars)](https://github.com/SheltonLiu-N/AutoDAN)
+[**Project Page**](https://autodans.github.io/AutoDAN/) \| [![](https://img.shields.io/github/stars/SheltonLiu-N/AutoDAN?style=social&label=Code Stars)](https://github.com/SheltonLiu-N/AutoDAN)
 - This pioneering work focuses on the adversarial robustness of the safety alignment of LLMs, and introduces AutoDAN, a novel hierarchical genetic algorithm that automatically generates stealthy jailbreak prompts for LLMs, preserving semantic meaningfulness while bypassing existing defenses like perplexity detection.
 - It is one of the strongest jailbreak attacks in public benchmarks ([Harmbench](https://www.harmbench.org), [Easyjailbreak](http://easyjailbreak.org)).
 </div>
@@ -127,7 +127,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 Zhiyuan Yu, **Xiaogeng Liu**, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang
 
-[**Project Page**](https://github.com/WUSTL-CSPL/LLMJailbreak) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:5nxA0vEk-isC'></span></strong>
+[**Project Page**](https://github.com/WUSTL-CSPL/LLMJailbreak) 
 - This work is a comprehensive systematization of jailbreak prompts in LLMs, categorizing them into five types and analyzing their effectiveness based on 448 prompts collected from online forums.
 - We also introduce a human-AI cooperative framework for automating jailbreak prompt generation, achieving success in transforming 766 failed prompts into harmful outputs, demonstrating the feasibility of automating such attacks.
 </div>
@@ -140,7 +140,7 @@ Zhiyuan Yu, **Xiaogeng Liu**, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Z
 
 Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Chen, Chaowei Xiao
 
-[**Project Page**](https://rain305f.github.io/AdaShield-Project/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:0EnyYjriUFMC'></span></strong>
+[**Project Page**](https://rain305f.github.io/AdaShield-Project/) 
 - This paper presents AdaShield, a novel adaptive defense mechanism designed to safeguard MLLMs against structure-based jailbreak attacks by using defense prompts without requiring fine-tuning or additional training.
 - AdaShield achieves state-of-the-art performance, significantly improving defense robustness across multiple MLLMs while maintaining general performance on benign tasks, through its adaptive auto-refinement framework that customizes defense prompts to various attack scenarios.
 </div>
@@ -153,7 +153,7 @@ Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Che
 
 Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Xiaoyu Guo, Chaowei Xiao
 
-[**Project Page**](https://eddyluo1232.github.io/JailBreakV28K/) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:8k81kl-MbHgC'></span></strong>
+[**Project Page**](https://eddyluo1232.github.io/JailBreakV28K/) 
 - This work introduces JailBreakV-28K, a comprehensive benchmark for evaluating the robustness of MLLMs against both text-based and image-based jailbreak attacks, and RedTeam-2K, a dataset of 2,000 malicious queries covering 16 safety policies aimed at testing the vulnerabilities of LLMs and MLLMs.
 - The benchmark highlights the transferability of jailbreak techniques from LLMs to MLLMs, revealing significant vulnerabilities in MLLMs' ability to handle malicious inputs across text and visual modalities.
 </div>
