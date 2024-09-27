@@ -174,7 +174,7 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 
 # 🎖 Honors and Awards
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
-- *2022.10* Chinese National Scholarship (Top 1%) 
+- *2022.10* Chinese National Scholarship (Top 1%)
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D in Information Science, University of Wisconsin-Madison, Madison, Wisconsin, USA.
