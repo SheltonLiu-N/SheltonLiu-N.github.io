@@ -105,6 +105,21 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 </ul>
 </details>
 
+# 💥 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodan-turbo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2310.04451)
+
+<strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao
+
+[**Project Page**](https://autodans.github.io/AutoDAN-Turbo) \| [![](https://img.shields.io/github/stars/SheltonLiu-N/AutoDAN?style=social&label=Code Stars)](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)
+- We propose AutoDAN-Turbo, a black-box jailbreak method that can automatically discover as many jailbreak strategies as possible from scratch, without any human intervention or predefined scopes (e.g., specified candidate strategies), and use them for red-teaming. Notably, AutoDAN-Turbo achieves an 88.5 attack success rate on GPT-4-1106-turbo. In addition, AutoDAN-Turbo is a unified framework that can incorporate existing human-designed jailbreak strategies in a plug-and-play manner. By integrating human-designed strategies, AutoDAN-Turbo can even achieve a higher attack success rate of 93.4 on GPT-4-1106-turbo.
+- It is the strongest jailbreak attack in [Harmbench](https://www.harmbench.org).
+</div>
+</div>
+
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/autodan.png' alt="sym" width="100%"></div></div>
