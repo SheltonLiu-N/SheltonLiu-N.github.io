@@ -110,7 +110,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodan-turbo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2310.04451)
+[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2410.05295)
 
 <strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao
 
