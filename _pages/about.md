@@ -120,6 +120,19 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/injecguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models](https://arxiv.org/abs/2410.22770)
+
+Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Chaowei Xiao
+
+[**Project Page**](https://injecguard.github.io) \| [**Dataset**](https://huggingface.co/datasets/leolee99/NotInject)
+- We propose InjecGuard, a lightweight model designed to defend against prompt injection attacks. It delivers strong performance across benign, malicious, and over-defense accuracy metrics, surpassing existing guard models such as PromptGuard, ProtectAIv2, and LakeraAI. Despite its compact size, with model parameters of only 184MB, InjecGuard achieves competitive performance comparable to advanced commercial large language models like GPT-4.
+- We also introduce [NotInject](https://huggingface.co/datasets/leolee99/NotInject), an evaluation dataset that systematically measures over-defense across various prompt guard models.
+</div>
+</div>
+
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/autodan.png' alt="sym" width="100%"></div></div>
