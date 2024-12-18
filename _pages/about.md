@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaogeng Liu, currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about), who specializes in security, privacy, and machine learning, with the goal of building socially responsible machine learning systems. I obtained my Master's degree from Huazhong University of Science and Technology in 2023, and was fortunate to be a member of [TAI group](http://trustai.group), mentored by Professor [Shengshan Hu](http://faculty.hust.edu.cn/HUSHENGSHAN/zh_CN/index.htm).
+My name is Xiaogeng Liu, currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about), who specializes in security, privacy, and machine learning, with the goal of building socially responsible machine learning systems. I obtained my Master's degree from Huazhong University of Science and Technology in 2023, and was fortunate to be a member of [TAI group](http://trustai.group), mentored by Professor [Shengshan Hu](http://faculty.hust.edu.cn/HUSHENGSHAN/zh_CN/index.htm). I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>.
 
 My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of attacks or unexpected inputs. I have published several papers at the top international AI conferences with total google scholar <a href="https://scholar.google.com/citations?user=Gvs5nz8AAAAJ" target="_blank"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xiaogeng.liu@wisc.edu**
 
@@ -25,6 +25,9 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
 <ul>
+    <li>
+        [2024-12] &nbsp;🎉🎉 I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
+    </li>
     <li>
         [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreaking attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
     </li>
@@ -201,6 +204,7 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 </div>
 
 # 🎖 Honors and Awards
+- *2024.12* <span style="color:red;">NVIDIA 2025-2026 Graduate Fellowship</span>
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
 - *2022.10* Chinese National Scholarship (Top 1%)
 
