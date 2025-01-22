@@ -26,6 +26,15 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2025-01] <span style="color:red">Three papers are accepted by ICLR 2025</span>, thanks for all of my collaborators. <br> 
+        <a href="https://arxiv.org/abs/2410.05295" target="_blank">"AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs"</a> <br>
+        <i><strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao.</i> <br>
+        <a href="https://openreview.net/forum?id=KRMSH1GxUK&" target="_blank">"Can Watermarks be Used to Detect LLM IP Infringement For Free?"</a> <br>
+        <i>Zhengyue Zhao, <strong>Xiaogeng Liu</strong>, Somesh Jha, Patrick McDaniel, Bo Li, Chaowei Xiao.</i> <br>
+        <a href="https://arxiv.org/abs/2406.09411" target="_blank">"MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding"</a> <br>
+        <i>Fei Wang, Xingyu Fu, James Y. Huang<sup>*</sup>, Zekun Li<sup>*</sup>, Qin Liu<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Mingyu Derek Ma<sup>*</sup>, Nan Xu<sup>*</sup>, Wenxuan Zhou<sup>*</sup>, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen.</i>
+    </li>
+    <li>
         [2024-12] &nbsp;🎉🎉 I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
     </li>
     <li>
@@ -110,19 +119,6 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 
 # 💥 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autodan-turbo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2410.05295)
-
-<strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao
-
-[**Project Page**](https://autodans.github.io/AutoDAN-Turbo) \| [![](https://img.shields.io/github/stars/SaFoLab-WISC/AutoDAN-Turbo?style=social&label=Code Stars)](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)
-- We propose AutoDAN-Turbo, a black-box jailbreak method that can automatically discover as many jailbreak strategies as possible from scratch, without any human intervention or predefined scopes (e.g., specified candidate strategies), and use them for red-teaming. Notably, AutoDAN-Turbo achieves an 88.5 attack success rate on GPT-4-1106-turbo. In addition, AutoDAN-Turbo is a unified framework that can incorporate existing human-designed jailbreak strategies in a plug-and-play manner. By integrating human-designed strategies, AutoDAN-Turbo can even achieve a higher attack success rate of 93.4 on GPT-4-1106-turbo.
-- It is the strongest jailbreak attack in [Harmbench](https://www.harmbench.org).
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/injecguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -137,6 +133,19 @@ Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Chaowei Xiao
 </div>
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/autodan-turbo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2410.05295)
+
+<strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao
+
+[**Project Page**](https://autodans.github.io/AutoDAN-Turbo) \| [![](https://img.shields.io/github/stars/SaFoLab-WISC/AutoDAN-Turbo?style=social&label=Code Stars)](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)
+- We propose AutoDAN-Turbo, a black-box jailbreak method that can automatically discover as many jailbreak strategies as possible from scratch, without any human intervention or predefined scopes (e.g., specified candidate strategies), and use them for red-teaming. Notably, AutoDAN-Turbo achieves an 88.5 attack success rate on GPT-4-1106-turbo. In addition, AutoDAN-Turbo is a unified framework that can incorporate existing human-designed jailbreak strategies in a plug-and-play manner. By integrating human-designed strategies, AutoDAN-Turbo can even achieve a higher attack success rate of 93.4 on GPT-4-1106-turbo.
+- It is the strongest jailbreak attack in [Harmbench](https://www.harmbench.org).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/autodan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
