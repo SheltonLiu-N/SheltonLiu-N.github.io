@@ -26,7 +26,7 @@ My research interests lie in trustworthy AI, especially the robustness of machin
 <ul>
     <li>
         [2025-01] <span style="color:red">Three papers are accepted by ICLR 2025</span>, thanks for all of my collaborators. <br> 
-        <a href="https://arxiv.org/abs/2410.05295" target="_blank">"AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs"</a> <br>
+        <a href="https://arxiv.org/abs/2410.05295" target="_blank">"AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs"</a> (<span style="color:red">Spotlight, 5.1%</span>) <br> 
         <i><strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao.</i> <br>
         <a href="https://openreview.net/forum?id=KRMSH1GxUK&" target="_blank">"Can Watermarks be Used to Detect LLM IP Infringement For Free?"</a> <br>
         <i>Zhengyue Zhao, <strong>Xiaogeng Liu</strong>, Somesh Jha, Patrick McDaniel, Bo Li, Chaowei Xiao.</i> <br>
@@ -133,7 +133,7 @@ Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Chaowei Xiao
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/autodan-turbo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight</div><img src='images/autodan-turbo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2410.05295)
