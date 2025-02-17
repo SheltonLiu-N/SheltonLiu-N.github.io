@@ -34,6 +34,9 @@ My research interests lie in trustworthy AI, especially the robustness of machin
         <i>Fei Wang, Xingyu Fu, James Y. Huang<sup>*</sup>, Zekun Li<sup>*</sup>, Qin Liu<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Mingyu Derek Ma<sup>*</sup>, Nan Xu<sup>*</sup>, Wenxuan Zhou<sup>*</sup>, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen.</i>
     </li>
     <li>
+        [2025-01] <span style="color:red">Two papers are accepted by NAACL 2025</span>, thanks for all of my collaborators.
+    </li>
+    <li>
         [2024-12] &nbsp;🎉🎉 I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
     </li>
     <li>
