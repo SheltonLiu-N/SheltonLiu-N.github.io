@@ -145,7 +145,6 @@ Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>
 
 [**Project Page**](https://autodans.github.io/AutoDAN-Turbo) \| [![](https://img.shields.io/github/stars/SaFoLab-WISC/AutoDAN-Turbo?style=social&label=Code Stars)](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)
 - We propose AutoDAN-Turbo, a black-box jailbreak method that can automatically discover as many jailbreak strategies as possible from scratch, without any human intervention or predefined scopes (e.g., specified candidate strategies), and use them for red-teaming. Notably, AutoDAN-Turbo achieves an 88.5 attack success rate on GPT-4-1106-turbo. In addition, AutoDAN-Turbo is a unified framework that can incorporate existing human-designed jailbreak strategies in a plug-and-play manner. By integrating human-designed strategies, AutoDAN-Turbo can even achieve a higher attack success rate of 93.4 on GPT-4-1106-turbo.
-- It is the strongest jailbreak attack in [Harmbench](https://www.harmbench.org).
 </div>
 </div>
 
