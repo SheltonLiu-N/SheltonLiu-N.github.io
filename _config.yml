@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaogeng Liu 刘晓耕"
+title                    : "Xiaogeng Liu"
 description              : "Second-year Ph.D. student at the University of Wisconsin-Madison, research interest in trustworthy AI."
 repository               : "SheltonLiu-N/SheltonLiu-N.github.io"
 google_scholar_stats_use_cdn : true
