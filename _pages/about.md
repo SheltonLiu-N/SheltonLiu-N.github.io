@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about). My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of unexpected inputs. I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>. I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xiaogeng.liu@wisc.edu**
+My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about). My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of unexpected inputs. I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>. 
+
+I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xiaogeng.liu@wisc.edu**
 
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
@@ -218,8 +220,8 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 - *2022.10* Chinese National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2023.09 - present*, Ph.D in Information Science, University of Wisconsin-Madison, Madison, Wisconsin, USA.
-- *2020.09 - 2023.06*, Master in Cybersecurity, Huazhong University of Science and Technology, Wuhan, Hubei, China.
+- *2023.09 - present*, Ph.D, University of Wisconsin-Madison, Madison, Wisconsin, USA.
+- *2020.09 - 2023.06*, Master, Huazhong University of Science and Technology, Wuhan, Hubei, China.
 
 <!--
 # 💬 Invited Talks
