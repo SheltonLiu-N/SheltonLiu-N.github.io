@@ -25,6 +25,11 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2024-07] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
+         <a href="https://openreview.net/forum?id=vOxaD3hhPt" target="_blank">"MetaAgent: Automatically Building Multi-Agent System based on Finite State Machine"</a> <br>
+        <i>Yaolun Zhang, <strong>Xiaogeng Liu</strong>, Chaowei Xiao.</i>
+    </li>
+    <li>
         [2025-01] <span style="color:red">Three papers are accepted by ICLR 2025</span>, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2410.05295" target="_blank">"AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs"</a> (<span style="color:red">Spotlight, 5.1%</span>) <br> 
         <i><strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao.</i> <br>
