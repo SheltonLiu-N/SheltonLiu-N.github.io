@@ -25,6 +25,9 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2024-08] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> about benchmarking VLMs robustness against jailbreak attacks is awarded by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>!, thanks for all of my collaborators, thank you the Center for AI Safety. <br>
+    </li>
+    <li>
         [2024-07] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
          <a href="https://openreview.net/forum?id=vOxaD3hhPt" target="_blank">"MetaAgent: Automatically Building Multi-Agent System based on Finite State Machine"</a> <br>
         <i>Yaolun Zhang, <strong>Xiaogeng Liu</strong>, Chaowei Xiao.</i>
@@ -45,7 +48,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2024-12] &nbsp;🎉🎉 I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
     </li>
     <li>
-        [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreaking attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
+        [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
     </li>
     <li>
         [2024-07] <span style="color:red">One paper is accepted by COLM 2024</span>, thanks for all of my collaborators. <br> 
@@ -67,16 +70,16 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <a href="https://arxiv.org/abs/2310.04451" target="_blank">"AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models"</a> <br>
         <i><strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.</i>
     </li>
-    <li>
-        [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. <br>
-        <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a010/1RjE9Osvfgs" target="_blank">"Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability"</a> <br>
-        <i>Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.</i>
-    </li>
 </ul>
 
 <details>
   <summary>More</summary>
 <ul>
+    <li>
+        [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. <br>
+        <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a010/1RjE9Osvfgs" target="_blank">"Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability"</a> <br>
+        <i>Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.</i>
+    </li>
     <li>
         [2023-07] <span style="color:red">One paper is accepted by ACM MM 2023</span>, thanks for all of my collaborators. <br>
         <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612456" target="_blank">"PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness"</a> <br>
@@ -192,7 +195,7 @@ Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Che
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/jailbreakv28k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024, SafeBench Award</div><img src='images/jailbreakv28k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)
