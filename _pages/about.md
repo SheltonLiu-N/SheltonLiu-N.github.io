@@ -25,10 +25,10 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
-        [2024-08] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> about benchmarking VLMs robustness against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>!, thanks for all of my collaborators, thank you the Center for AI Safety. <br>
+        [2025-05] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> about benchmarking VLMs robustness against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>!, thanks for all of my collaborators, thank you the Center for AI Safety. <br>
     </li>
     <li>
-        [2024-07] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
+        [2025-05] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
          <a href="https://openreview.net/forum?id=vOxaD3hhPt" target="_blank">"MetaAgent: Automatically Building Multi-Agent System based on Finite State Machine"</a> <br>
         <i>Yaolun Zhang, <strong>Xiaogeng Liu</strong>, Chaowei Xiao.</i>
     </li>
@@ -222,7 +222,7 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 </div>
 
 # 🎖 Honors and Awards
-- *2025.4* Second Prize in the SafeBench competition hosted by the Center for AI Safety
+- *2025.05* Second Prize in the SafeBench competition hosted by the Center for AI Safety
 - *2024.12* <span style="color:red;">NVIDIA 2025-2026 Graduate Fellowship</span>
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
 - *2022.10* Chinese National Scholarship (Top 1%)
