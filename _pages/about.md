@@ -25,7 +25,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
-        [2024-08] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> about benchmarking VLMs robustness against jailbreak attacks is awarded by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>!, thanks for all of my collaborators, thank you the Center for AI Safety. <br>
+        [2024-08] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> about benchmarking VLMs robustness against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>!, thanks for all of my collaborators, thank you the Center for AI Safety. <br>
     </li>
     <li>
         [2024-07] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
@@ -45,7 +45,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-01] <span style="color:red">Two papers are accepted by NAACL 2025</span>, thanks for all of my collaborators.
     </li>
     <li>
-        [2024-12] &nbsp;🎉🎉 I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
+        [2024-12] &nbsp;🎉🎉 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
     </li>
     <li>
         [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
@@ -195,7 +195,7 @@ Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Che
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024, SafeBench Award</div><img src='images/jailbreakv28k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 and SafeBench Award</div><img src='images/jailbreakv28k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)
@@ -222,6 +222,7 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 </div>
 
 # 🎖 Honors and Awards
+- *2025.4* Second Prize in the SafeBench competition hosted by the Center for AI Safety
 - *2024.12* <span style="color:red;">NVIDIA 2025-2026 Graduate Fellowship</span>
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
 - *2022.10* Chinese National Scholarship (Top 1%)
