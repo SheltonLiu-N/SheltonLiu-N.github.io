@@ -28,7 +28,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-05] <span style="color:red">Two papers are accepted by ACL 2025 </span>, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2410.22770" target="_blank">"InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models"</a> (Main) <br> 
         <i>Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Ning Zhang, Chaowei Xiao.</i> <br>
-        <a href="https://arxiv.org/abs/2410.22770" target="_blank">"AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection"</a> (Main) <br> 
+        <a href="https://arxiv.org/abs/2502.11448" target="_blank">"AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection"</a> (Main) <br> 
         <i>Weidi Luo, Shenghong Dai, <strong>Xiaogeng Liu</strong>, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao.</i>
     </li>
     <li>
