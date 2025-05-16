@@ -25,6 +25,13 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2025-05] <span style="color:red">Two papers are accepted by ACL 2025 </span>, thanks for all of my collaborators. <br> 
+        <a href="https://arxiv.org/abs/2410.22770" target="_blank">"InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models"</a> (Main) <br> 
+        <i>Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Ning Zhang, Chaowei Xiao.</i> <br>
+        <a href="https://arxiv.org/abs/2410.22770" target="_blank">"AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection"</a> (Main) <br> 
+        <i>Weidi Luo, Shenghong Dai, <strong>Xiaogeng Liu</strong>, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao.</i>
+    </li>
+    <li>
         [2025-05] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> on benchmarking the robustness of VLMs against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>! Huge thanks to all my collaborators and to the Center for AI Safety. <br>
     </li>
     <li>
@@ -129,16 +136,16 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 
 # 💥 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/injecguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/doxing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models](https://arxiv.org/abs/2410.22770)
+[Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model](https://arxiv.org/abs/2504.19373)
 
-Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>
+Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Yue Zhao, Zhen Xiang, Chaowei Xiao
 
-[**Project Page**](https://injecguard.github.io) \| [**Dataset**](https://huggingface.co/datasets/leolee99/NotInject)
-- We propose InjecGuard, a lightweight model designed to defend against prompt injection attacks. It delivers strong performance across benign, malicious, and over-defense accuracy metrics, surpassing existing guard models such as PromptGuard, ProtectAIv2, and LakeraAI. Despite its compact size, with model parameters of only 184MB, InjecGuard achieves competitive performance comparable to advanced commercial large language models like GPT-4.
-- We also introduce [NotInject](https://huggingface.co/datasets/leolee99/NotInject), an evaluation dataset that systematically measures over-defense across various prompt guard models.
+[**Media Press (机器之心)**](https://mp.weixin.qq.com/s/_pDsKWz9f9rjXFHWN2UJ_A) 
+- We conduct the first systematic and controlled study on the potential privacy risks associated with the visual reasoning abilities of agentic multi-modal large reasoning models like ChatGPT-o3, focusing on inadvertent image geolocation. Our experimental evaluation reveals that these models can predict user locations with high precision, achieving street-level accuracy (within one mile) in 60% of cases.
+- This is an ongoing project, updates and dataset will be available very soon.
 </div>
 </div>
 
@@ -179,6 +186,19 @@ Zhiyuan Yu, **Xiaogeng Liu**, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Z
 [**Project Page**](https://github.com/WUSTL-CSPL/LLMJailbreak) 
 - This work is a comprehensive systematization of jailbreak prompts in LLMs, categorizing them into five types and analyzing their effectiveness based on 448 prompts collected from online forums.
 - We also introduce a human-AI cooperative framework for automating jailbreak prompt generation, achieving success in transforming 766 failed prompts into harmful outputs, demonstrating the feasibility of automating such attacks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/injecguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models](https://arxiv.org/abs/2410.22770)
+
+Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Ning Zhang, Chaowei Xiao
+
+[**Project Page**](https://injecguard.github.io) \| [**Dataset**](https://huggingface.co/datasets/leolee99/NotInject)
+- We propose InjecGuard, a lightweight model designed to defend against prompt injection attacks. It delivers strong performance across benign, malicious, and over-defense accuracy metrics, surpassing existing guard models such as PromptGuard, ProtectAIv2, and LakeraAI. Despite its compact size, with model parameters of only 184MB, InjecGuard achieves competitive performance comparable to advanced commercial large language models like GPT-4.
+- We also introduce [NotInject](https://huggingface.co/datasets/leolee99/NotInject), an evaluation dataset that systematically measures over-defense across various prompt guard models.
 </div>
 </div>
 
