@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about). My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of unexpected inputs. I am honored to be awarded the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>. 
+My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about). My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of unexpected inputs. I am honored to be awarded the <a href="https://research.nvidia.com/graduate-fellowships/2025" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>. 
 
 I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xiaogeng.liu@wisc.edu**
 
