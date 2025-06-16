@@ -139,13 +139,13 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/doxing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model](https://arxiv.org/abs/2504.19373)
+[Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.19373)
 
 Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao
 
 [**Project Page**](https://doxbench.github.io/) \| [**Media Press (机器之心 Synced)**](https://mp.weixin.qq.com/s/_pDsKWz9f9rjXFHWN2UJ_A) \| <strong>23,000+</strong> views, <strong>1,300+</strong> shares
-- We conduct the first systematic and controlled study on the potential privacy risks associated with the visual reasoning abilities of agentic multi-modal large reasoning models like ChatGPT-o3, focusing on inadvertent image geolocation. Our experimental evaluation reveals that these models can predict user locations with high precision, achieving street-level accuracy (within one mile) in 60% of cases.
-- We propose GeoMiner, a collaborative attack framework that decomposes the prediction process into two stages: clue extraction and reasoning to improve geolocation performance while introducing a novel privacy risk.
+- We introduce a three-level visual privacy risk framework to categorize and evaluate the potential for location inference from images. We also present DoxBench, a new dataset of 500 real-world images designed to test various privacy scenarios, and find that advanced AI models consistently surpass non-expert humans in geolocation tasks.
+- To better understand these risks, we propose ClueMiner, a framework to identify the types of visual clues models use for location inference. We also introduce GeoMiner, a collaborative attack framework that demonstrates how the geolocation capabilities of these models can be amplified, highlighting a significant privacy threat.
 </div>
 </div>
 
