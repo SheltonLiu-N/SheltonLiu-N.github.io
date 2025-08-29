@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaogeng Liu"
-description              : "Second-year Ph.D. student at the University of Wisconsin-Madison, research interest in trustworthy AI."
+description              : "Third-year Ph.D. student in ECE at the Johns Hopkins University DSAI institute, research interest in trustworthy AI."
 repository               : "SheltonLiu-N/SheltonLiu-N.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaogeng Liu"
   avatar           : "images/Photo.JPG"
-  bio              : "University of Wisconsin-Madison"
-  location         : "Madison, WI, USA"
+  bio              : "Johns Hopkins University"
+  location         : "Baltimore, MD, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Gvs5nz8AAAAJ"
-  email            : "xiaogeng.liu@wisc.edu"
+  email            : "xliu316@jhu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://sheltonliu-n.github.io"
+  uri              : "xiaogeng-liu.com"
   bitbucket        :
   codepen          :
   dribbble         :
