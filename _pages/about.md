@@ -25,7 +25,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
-        [2025-08] &nbsp;🎓 Update: I’ve transferred to Johns Hopkins University DSAI institute to continue my PhD study (still in Professor Chaowei Xiao’s lab)! Excited to explore new collaborations! <br>
+        [2025-08] &nbsp;🎓 Update: I’ve transferred to <a href="https://engineering.jhu.edu/Datascience-AI/" target="_blank">Johns Hopkins University DSAI institute</a> to continue my PhD study (still in Professor Chaowei Xiao’s lab)! Excited to explore new collaborations! <br>
     </li>
     <li>
         [2025-05] <span style="color:red">Two papers are accepted by ACL 2025 </span>, thanks for all of my collaborators. <br> 
