@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a second-year Ph.D. student in Information Science at the University of Wisconsin-Madison. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about). My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of unexpected inputs. I am honored to be awarded the <a href="https://research.nvidia.com/graduate-fellowships/2025" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>. 
+My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a third-year Ph.D. student in ECE at the Johns Hopkins University DSAI institute. I am honored to conduct my research under the esteemed guidance of Professor [Chaowei Xiao](https://xiaocw11.github.io/#about). My research interests lie in trustworthy AI, especially the robustness of machine learning models that emphasizes the model's ability to maintain performance and resist any kind of unexpected inputs. I am honored to be awarded the <a href="https://research.nvidia.com/graduate-fellowships/2025" target="_blank">NVIDIA 2025-2026 Graduate Fellowship</a>. 
 
-I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xiaogeng.liu@wisc.edu**
+I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xliu316@jhu.edu**
 
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
 <ul>
+    <li>
+        [2025-08] Update: I’ve transferred to Johns Hopkins University DSAI institute to continue my PhD study (still in Professor Chaowei Xiao’s lab)! Excited to explore new collaborations! <br>
+    </li>
     <li>
         [2025-05] <span style="color:red">Two papers are accepted by ACL 2025 </span>, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2410.22770" target="_blank">"InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models"</a> (Main) <br> 
@@ -247,7 +250,8 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 - *2022.10* Chinese National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2023.09 - present*, Ph.D, University of Wisconsin-Madison, Madison, Wisconsin, USA.
+- *2025.09 - present*, Ph.D, Johns Hopkins University, Baltimore, Maryland, USA.
+- *2023.09 - 2025.06*, Ph.D, University of Wisconsin-Madison, Madison, Wisconsin, USA.
 - *2020.09 - 2023.06*, Master, Huazhong University of Science and Technology, Wuhan, Hubei, China.
 
 <!--
