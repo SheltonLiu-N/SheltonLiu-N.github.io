@@ -25,6 +25,11 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2025-09] <span style="color:red">One papers is accepted by NeurIPS 2025 </span>, thanks for all of my collaborators. <br> 
+        <a href="https://arxiv.org/abs/2506.12104" target="_blank">"DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents"</a> <br> 
+        <i>Hao Li, <strong>Xiaogeng Liu</strong>, Hung-Chun Chiu, Dianqi Li, Ning Zhang, Chaowei Xiao. </i> <br>
+    </li>
+    <li>
         [2025-08] &nbsp;🎓 Update: I’ve transferred to <a href="https://engineering.jhu.edu/Datascience-AI/" target="_blank">Johns Hopkins University DSAI institute</a> to continue my PhD study (still in Professor Chaowei Xiao’s lab)! Excited to explore new collaborations! <br>
     </li>
     <li>
