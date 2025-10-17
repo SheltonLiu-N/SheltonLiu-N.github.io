@@ -25,6 +25,9 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2025-10] &nbsp;🎉 Honored to be selected as one of the Top Reviewers for NeurIPS 2025. Let’s work together to protect the integrity of our peer-review system! <br>
+    </li>
+    <li>
         [2025-09] <span style="color:red">One papers is accepted by NeurIPS 2025 </span>, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2506.12104" target="_blank">"DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents"</a> <br> 
         <i>Hao Li, <strong>Xiaogeng Liu</strong>, Hung-Chun Chiu, Dianqi Li, Ning Zhang, Chaowei Xiao. </i> <br>
@@ -40,7 +43,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <i>Weidi Luo, Shenghong Dai, <strong>Xiaogeng Liu</strong>, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao.</i>
     </li>
     <li>
-        [2025-05] &nbsp;🎉🎉 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> on benchmarking the robustness of VLMs against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>! Huge thanks to all my collaborators and to the Center for AI Safety. <br>
+        [2025-05] &nbsp;🏆🏆 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> on benchmarking the robustness of VLMs against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>! Huge thanks to all my collaborators and to the Center for AI Safety. <br>
     </li>
     <li>
         [2025-05] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
@@ -60,11 +63,16 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-01] <span style="color:red">Two papers are accepted by NAACL 2025</span>, thanks for all of my collaborators.
     </li>
     <li>
-        [2024-12] &nbsp;🎉🎉 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
+        [2024-12] &nbsp;🏆🏆 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
     </li>
     <li>
-        [2024-08] &nbsp;🎉🎉 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
+        [2024-08] &nbsp;🏆🏆 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
     </li>
+</ul>
+
+<details>
+  <summary>More</summary>
+<ul>
     <li>
         [2024-07] <span style="color:red">One paper is accepted by COLM 2024</span>, thanks for all of my collaborators. <br> 
          <a href="https://arxiv.org/abs/2404.03027" target="_blank">"JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks"</a> <br>
@@ -85,11 +93,6 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <a href="https://arxiv.org/abs/2310.04451" target="_blank">"AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models"</a> <br>
         <i><strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.</i>
     </li>
-</ul>
-
-<details>
-  <summary>More</summary>
-<ul>
     <li>
         [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. <br>
         <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a010/1RjE9Osvfgs" target="_blank">"Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability"</a> <br>
