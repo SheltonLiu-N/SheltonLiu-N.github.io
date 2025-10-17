@@ -252,6 +252,7 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 # 🎖 Honors and Awards
 - *2024.12* <span style="color:red;">NVIDIA 2025-2026 Graduate Fellowship</span>
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
+- *2025.10* NeurIPS 2025 Top Reviewer
 - *2022.10* Chinese National Scholarship (Top 1%)
 
 # 📖 Educations
