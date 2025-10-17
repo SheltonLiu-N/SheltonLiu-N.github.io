@@ -25,7 +25,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
-        [2025-10] &nbsp;🎉 Honored to be selected as one of the Top Reviewers for NeurIPS 2025. Let’s work together to protect the integrity of our peer-review system! <br>
+        [2025-10] &nbsp;🎉 Honored to be selected as one of the <span style="color:red">Top Reviewers for NeurIPS 2025</span>. Let’s work together to protect the integrity of our peer-review system! <br>
     </li>
     <li>
         [2025-09] <span style="color:red">One papers is accepted by NeurIPS 2025 </span>, thanks for all of my collaborators. <br> 
