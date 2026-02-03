@@ -30,7 +30,6 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao. </i> <br>
     </li>
     <li>
-    <li>
         [2025-10] &nbsp;🎉 Honored to be selected as one of the <span style="color:red">Top Reviewers for NeurIPS 2025</span>. Let’s work together to protect the integrity of our peer-review system! <br>
     </li>
     <li>
