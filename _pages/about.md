@@ -25,6 +25,12 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
+        [2026-01] <span style="color:red">One papers is accepted by ICLR 2026 </span>, thanks for all of my collaborators. <br> 
+        <a href="https://arxiv.org/abs/2504.19373" target="_blank">"Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models"</a> <br> 
+        Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao. </i> <br>
+    </li>
+    <li>
+    <li>
         [2025-10] &nbsp;🎉 Honored to be selected as one of the <span style="color:red">Top Reviewers for NeurIPS 2025</span>. Let’s work together to protect the integrity of our peer-review system! <br>
     </li>
     <li>
@@ -147,16 +153,16 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 
 # 💥 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/doxing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reasoningbomb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.19373)
+[ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154)
 
-Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao
+**Xiaogeng Liu**, Xinyan Wang, Yechao Zhang, Sanjay Kariyappa, Chong Xiang, Muhao Chen, G. Edward Suh, Chaowei Xiao
 
-[**Project Page**](https://doxbench.github.io/) \| [**Media Press (机器之心 Synced)**](https://mp.weixin.qq.com/s/_pDsKWz9f9rjXFHWN2UJ_A) \| <strong>23,000+</strong> views, <strong>1,300+</strong> shares
-- We introduce a three-level visual privacy risk framework to categorize and evaluate the potential for location inference from images. We also present DoxBench, a new dataset of 500 real-world images designed to test various privacy scenarios, and find that advanced AI models consistently surpass non-expert humans in geolocation tasks.
-- To better understand these risks, we propose ClueMiner, a framework to identify the types of visual clues models use for location inference. We also introduce GeoMiner, a collaborative attack framework that demonstrates how the geolocation capabilities of these models can be amplified, highlighting a significant privacy threat.
+[**Project Page**](https://reasoningbomb.github.io/) 
+- This work introduces ReasoningBomb, an RL-based framework that generates short natural-language prompts to induce pathologically long reasoning in LRMs. Server simulations show just 10% malicious traffic cuts benign throughput by 49.8% while monopolizing 64.3% of compute, posing a severe DoS threat to LRM services.
+- A key improvement is a constant-time surrogate reward that replaces expensive autoregressive victim feedback with a lightweight MLP on frozen hidden states, achieving 4.39×10⁵× training speedup while maintaining strong correlation with actual reasoning length—breaking the self-defeating loop where evaluation cost grows with attack success.
 </div>
 </div>
 
@@ -249,6 +255,19 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 [**Project Page**](https://github.com/CGCL-codes/TeCo) <strong><span class='show_paper_citations' data='Gvs5nz8AAAAJ:2osOgNQ5qMEC'></span></strong>
 - This paper introduces TeCo, a novel test-time trigger sample detection method that leverages the anomaly in corruption robustness consistency between clean and trigger samples, requiring only hard-label outputs and no additional data or assumptions.
 - TeCo significantly outperforms state-of-the-art methods on various backdoor attacks and benchmarks, improving the AUROC by 10% and achieving 5 times the stability of existing methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/doxing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.19373)
+
+Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao
+
+[**Project Page**](https://doxbench.github.io/) \| [**Media Press (机器之心 Synced)**](https://mp.weixin.qq.com/s/_pDsKWz9f9rjXFHWN2UJ_A) \| <strong>23,000+</strong> views, <strong>1,300+</strong> shares
+- We introduce a three-level visual privacy risk framework to categorize and evaluate the potential for location inference from images. We also present DoxBench, a new dataset of 500 real-world images designed to test various privacy scenarios, and find that advanced AI models consistently surpass non-expert humans in geolocation tasks.
+- To better understand these risks, we propose ClueMiner, a framework to identify the types of visual clues models use for location inference. We also introduce GeoMiner, a collaborative attack framework that demonstrates how the geolocation capabilities of these models can be amplified, highlighting a significant privacy threat.
 </div>
 </div>
 
