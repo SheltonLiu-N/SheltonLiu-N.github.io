@@ -25,7 +25,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
-        [2026-01] <span style="color:red">One papers is accepted by ICLR 2026 </span>, thanks for all of my collaborators. <br> 
+        [2026-01] <span style="color:red">One paper is accepted by ICLR 2026 </span>, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2504.19373" target="_blank">"Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models"</a> <br> 
         <i>Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao. </i> <br>
     </li>
@@ -33,7 +33,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-10] &nbsp;🎉 Honored to be selected as one of the <span style="color:red">Top Reviewers for NeurIPS 2025</span>. Let’s work together to protect the integrity of our peer-review system! <br>
     </li>
     <li>
-        [2025-09] <span style="color:red">One papers is accepted by NeurIPS 2025 </span>, thanks for all of my collaborators. <br> 
+        [2025-09] <span style="color:red">One paper is accepted by NeurIPS 2025 </span>, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2506.12104" target="_blank">"DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents"</a> <br> 
         <i>Hao Li, <strong>Xiaogeng Liu</strong>, Hung-Chun Chiu, Dianqi Li, Ning Zhang, Chaowei Xiao. </i> <br>
     </li>
