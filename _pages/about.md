@@ -24,6 +24,12 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
 <ul>
+    <li class="pinned">
+        [2024-12] &nbsp;🏆🏆 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
+    </li>
+    <li class="pinned">
+        [2024-08] &nbsp;🏆🏆 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
+    </li>
     <li>
         [2026-01] One paper is accepted by ICLR 2026, thanks for all of my collaborators. <br> 
         <!-- <a href="https://arxiv.org/abs/2504.19373" target="_blank">"Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models"</a> <br> 
@@ -66,12 +72,6 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
     </li>
     <li>
         [2025-01] Two papers are accepted by NAACL 2025, thanks for all of my collaborators.
-    </li>
-    <li>
-        [2024-12] &nbsp;🏆🏆 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
-    </li>
-    <li>
-        [2024-08] &nbsp;🏆🏆 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
     </li>
 </ul>
 
