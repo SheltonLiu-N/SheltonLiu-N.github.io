@@ -30,7 +30,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <i>Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao. </i> <br> -->
     </li>
     <li>
-        [2025-10] &nbsp;🎉 <span style="color:red">Honored to be selected</span> as one of the <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer" target="_blank"> Top Reviewers for NeurIPS 2025 </a>. Let’s work together to protect the integrity of our peer-review system! <br> 
+        [2025-10] &nbsp;🎉 <span style="color:red">Honored to be selected</span> as one of the <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer" target="_blank"> Top Reviewers for NeurIPS 2025</a>. Let’s work together to protect the integrity of our peer-review system! <br> 
     </li>
     <li>
         [2025-09] One paper is accepted by NeurIPS 2025, thanks for all of my collaborators. <br> 
