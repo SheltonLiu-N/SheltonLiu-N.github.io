@@ -25,7 +25,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 (<sup>*</sup> represents equal contribution)
 <ul>
     <li>
-        [2026-01] <span style="color:red">One paper is accepted by ICLR 2026 </span>, thanks for all of my collaborators. <br> 
+        [2026-01] One paper is accepted by ICLR 2026, thanks for all of my collaborators. <br> 
         <!-- <a href="https://arxiv.org/abs/2504.19373" target="_blank">"Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models"</a> <br> 
         <i>Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao. </i> <br> -->
     </li>
@@ -33,7 +33,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-10] &nbsp;🎉 Honored to be selected as one of the <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer" target="_blank"> <span style="color:red">Top Reviewers for NeurIPS 2025</span> </a>. Let’s work together to protect the integrity of our peer-review system! <br> 
     </li>
     <li>
-        [2025-09] <span style="color:red">One paper is accepted by NeurIPS 2025 </span>, thanks for all of my collaborators. <br> 
+        [2025-09] One paper is accepted by NeurIPS 2025, thanks for all of my collaborators. <br> 
         <!-- <a href="https://arxiv.org/abs/2506.12104" target="_blank">"DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents"</a> <br> 
         <i>Hao Li, <strong>Xiaogeng Liu</strong>, Hung-Chun Chiu, Dianqi Li, Ning Zhang, Chaowei Xiao. </i> <br> -->
     </li>
@@ -41,7 +41,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-08] &nbsp;🎓 Update: I’ve transferred to <a href="https://engineering.jhu.edu/Datascience-AI/" target="_blank">Johns Hopkins University DSAI institute</a> to continue my PhD study (still in Professor Chaowei Xiao’s lab)! Excited to explore new collaborations! <br>
     </li>
     <li>
-        [2025-05] <span style="color:red">Two papers are accepted by ACL 2025 </span>, thanks for all of my collaborators. <br> 
+        [2025-05] Two papers are accepted by ACL 2025, thanks for all of my collaborators. <br> 
         <!-- <a href="https://arxiv.org/abs/2410.22770" target="_blank">"InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models"</a> (Main) <br> 
         <i>Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Ning Zhang, Chaowei Xiao.</i> <br>
         <a href="https://arxiv.org/abs/2502.11448" target="_blank">"AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection"</a> (Main) <br> 
@@ -51,12 +51,12 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2025-05] &nbsp;🏆🏆 Our <a href="https://eddyluo1232.github.io/JailBreakV28K/" target="_blank">paper</a> on benchmarking the robustness of VLMs against jailbreak attacks is <span style="color:red">honored to be awarded</span> by the <a href="https://www.mlsafety.org/safebench/winners" target="_blank">SafeBench competition</a>! Huge thanks to all my collaborators and to the Center for AI Safety. <br>
     </li>
     <li>
-        [2025-05] <span style="color:red">One paper is accepted by ICML 2025</span>, thanks for all of my collaborators. <br> 
+        [2025-05] One paper is accepted by ICML 2025, thanks for all of my collaborators. <br> 
          <!-- <a href="https://openreview.net/forum?id=vOxaD3hhPt" target="_blank">"MetaAgent: Automatically Building Multi-Agent System based on Finite State Machine"</a> <br>
         <i>Yaolun Zhang, <strong>Xiaogeng Liu</strong>, Chaowei Xiao.</i> -->
     </li>
     <li>
-        [2025-01] <span style="color:red">Three papers are accepted by ICLR 2025</span>, thanks for all of my collaborators. <br> 
+        [2025-01] Three papers are accepted by ICLR 2025, thanks for all of my collaborators. <br> 
         <!-- <a href="https://arxiv.org/abs/2410.05295" target="_blank">"AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs"</a> (<span style="color:red">Spotlight, 5.1%</span>) <br> 
         <i><strong>Xiaogeng Liu<sup>*</sup></strong>, Peiran Li<sup>*</sup>, Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao.</i> <br>
         <a href="https://openreview.net/forum?id=KRMSH1GxUK&" target="_blank">"Can Watermarks be Used to Detect LLM IP Infringement For Free?"</a> <br>
@@ -65,7 +65,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <i>Fei Wang, Xingyu Fu, James Y. Huang<sup>*</sup>, Zekun Li<sup>*</sup>, Qin Liu<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Mingyu Derek Ma<sup>*</sup>, Nan Xu<sup>*</sup>, Wenxuan Zhou<sup>*</sup>, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen.</i> -->
     </li>
     <li>
-        [2025-01] <span style="color:red">Two papers are accepted by NAACL 2025</span>, thanks for all of my collaborators.
+        [2025-01] Two papers are accepted by NAACL 2025, thanks for all of my collaborators.
     </li>
     <li>
         [2024-12] &nbsp;🏆🏆 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
@@ -79,37 +79,37 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
   <summary>More</summary>
 <ul>
     <li>
-        [2024-07] <span style="color:red">One paper is accepted by COLM 2024</span>, thanks for all of my collaborators. <br> 
+        [2024-07] One paper is accepted by COLM 2024, thanks for all of my collaborators. <br> 
          <!-- <a href="https://arxiv.org/abs/2404.03027" target="_blank">"JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks"</a> <br>
         <i>Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Xiaoyu Guo, Chaowei Xiao.</i> -->
     </li>
     <li>
-        [2024-07] <span style="color:red">One paper is accepted by ECCV 2024</span>, thanks for all of my collaborators. <br>
+        [2024-07] One paper is accepted by ECCV 2024, thanks for all of my collaborators. <br>
         <!-- <a href="https://arxiv.org/abs/2403.09513" target="_blank">"AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting"</a> <br>
         <i>Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Chen, Chaowei Xiao.</i> -->
     </li>
     <li>
-        [2024-02] <span style="color:red">One paper is accepted by USENIX Security 2024</span>, thanks for all of my collaborators. <br>
+        [2024-02] One paper is accepted by USENIX Security 2024, thanks for all of my collaborators. <br>
         <!-- <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">"Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models"</a> <br>
         <i>Zhiyuan Yu, <strong>Xiaogeng Liu</strong>, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Zhang.</i> -->
     </li>
     <li>
-        [2024-01] <span style="color:red">One paper is accepted by ICLR 2024</span>, thanks for all of my collaborators. <br>
+        [2024-01] One paper is accepted by ICLR 2024, thanks for all of my collaborators. <br>
         <!-- <a href="https://arxiv.org/abs/2310.04451" target="_blank">"AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models"</a> <br>
         <i><strong>Xiaogeng Liu</strong>, Nan Xu, Muhao Chen, Chaowei Xiao.</i> -->
     </li>
     <li>
-        [2023-07] <span style="color:red">One paper is accepted by S&amp;P 2024</span>, thanks for all of my collaborators. <br>
+        [2023-07] One paper is accepted by S&amp;P 2024, thanks for all of my collaborators. <br>
         <!-- <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a010/1RjE9Osvfgs" target="_blank">"Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability"</a> <br>
         <i>Yechao Zhang, Shengshan Hu, Leo Yu Zhang, Junyu Shi, Minghui Li, <strong>Xiaogeng Liu</strong>, Wei Wan, Hai Jin.</i> -->
     </li>
     <li>
-        [2023-07] <span style="color:red">One paper is accepted by ACM MM 2023</span>, thanks for all of my collaborators. <br>
+        [2023-07] One paper is accepted by ACM MM 2023, thanks for all of my collaborators. <br>
         <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612456" target="_blank">"PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness"</a> <br>
         <i>Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Xianlong Wang, Leo Yu Zhang.</i> -->
     </li>
     <li>
-        [2023-02] <span style="color:red">One paper is accepted by CVPR 2023</span>, thanks for all of my collaborators. <br>
+        [2023-02] One paper is accepted by CVPR 2023, thanks for all of my collaborators. <br>
         <!-- <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Detecting_Backdoors_During_the_Inference_Stage_Based_on_Corruption_Robustness_CVPR_2023_paper.html" target="_blank">"Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency"</a> <br>
         <i><strong>Xiaogeng Liu</strong>, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao.</i> -->
     </li>
@@ -130,7 +130,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2022-09] I am awarded the <span style="color:red">Chinese National Scholarship</span> for Graduate Students (Top 1%)!.
     </li>
     <li>
-        [2022-02] <span style="color:red">One paper is accepted by CVPR 2022</span>, thanks for all of my collaborators. <br>
+        [2022-02] One paper is accepted by CVPR 2022, thanks for all of my collaborators. <br>
         <!-- <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Protecting_Facial_Privacy_Generating_Adversarial_Identity_Masks_via_Style-Robust_Makeup_CVPR_2022_paper.html" target="_blank">"Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-Robust Makeup Transfer"</a> <br>
         <i>Shengshan Hu, <strong>Xiaogeng Liu</strong>, Yechao Zhang, Minghui Li, Leo Yu Zhang, Hai Jin, Libing Wu.</i> -->
     </li>
@@ -143,7 +143,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <a href="https://security.oppo.com/challenge/home.html">OPPO AI Challenge - Face Recognition Competition</a> (Rank 14/2349).
     </li>
     <li>
-        [2021-04] <span style="color:red">One paper is accepted by ACM MM 2021</span>, thanks for all of my collaborators. <br>
+        [2021-04] One paper is accepted by ACM MM 2021, thanks for all of my collaborators. <br>
         <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475396" target="_blank">"Advhash: Set-to-set Targeted Attack on Deep Hashing with One Single Adversarial Patch"</a> <br>
         <i>Shengshan Hu, Yechao Zhang, <strong>Xiaogeng Liu</strong>, Leo Yu Zhang, Minghui Li, Hai Jin.</i> -->
     </li>
