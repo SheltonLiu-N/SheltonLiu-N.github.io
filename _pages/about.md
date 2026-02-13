@@ -24,7 +24,10 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
 <style>
-  ul.news-list li::marker {
+  ul.news-list {
+    list-style: none !important;
+  }
+  ul.news-list li::before {
     content: "📌 ";
   }
 </style>
