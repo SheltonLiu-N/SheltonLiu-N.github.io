@@ -26,9 +26,12 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 <style>
   ul.news-list {
     list-style: none !important;
+    padding-left: 0;
+    margin-left: 2em;
   }
   ul.news-list li::before {
     content: "📌 ";
+    margin-left: -1.5em;
   }
 </style>
 <ul class="news-list">
