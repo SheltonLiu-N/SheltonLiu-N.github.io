@@ -23,6 +23,15 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
+<style>
+li.pinned {
+  list-style: none;
+}
+li.pinned::before {
+  content: "📌";
+  margin-right: 0.3em;
+}
+</style>
 <ul>
     <li class="pinned">
         [2024-12] &nbsp;🏆🏆 I am <span style="color:red">honored to be awarded</span> the <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/" target="_blank"><strong>NVIDIA 2025-2026 Graduate Fellowship</strong></a>! I cannot fully express my gratitude to everyone who has supported me—my peers, my collaborators, my advisor, and all who have offered their guidance along the way. <br> 
