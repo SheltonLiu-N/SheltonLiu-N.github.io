@@ -42,7 +42,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         [2024-08] &nbsp;🏆🏆 Our <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan" target="_blank">paper</a> about understanding jailbreak attacks wins the <span style="color:red;"><strong>Distinguished Paper Award</strong> in 33rd USENIX Security Symposium (USENIX Security'24)</span>!, thanks for all of my collaborators. <br> 
     </li>
     <li>
-        [2026-01] &nbsp;🏆🏆 I am honored to be named a <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2026/" target="_blank"><strong>Jane Street Graduate Research Fellowship (GRF) Honorable Mention</strong></a>! <br> 
+        [2026-01] &nbsp;🏆🏆 I am <span style="color:red">honored to be named</span> a <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2026/" target="_blank"><strong>Jane Street Graduate Research Fellowship (GRF) Honorable Mention</strong></a>! <br> 
     </li>
 </ul>
 <ul>
