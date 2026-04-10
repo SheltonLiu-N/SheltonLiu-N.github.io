@@ -47,6 +47,11 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 </ul>
 <ul>
     <li>
+        [2026-04] One paper is accepted by CCS 2026, thanks for all of my collaborators. <br> 
+        <a href="https://arxiv.org/abs/2602.00154" target="_blank">"ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models"</a> <br> 
+        <i><strong>Xiaogeng Liu</strong>, Xinyan Wang, Yechao Zhang, Sanjay Kariyappa, Chong Xiang, Muhao Chen, G. Edward Suh, Chaowei Xiao. </i> <br>
+    </li>
+    <li>
         [2026-01] One paper is accepted by ICLR 2026, thanks for all of my collaborators. <br> 
         <!-- <a href="https://arxiv.org/abs/2504.19373" target="_blank">"Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models"</a> <br> 
         <i>Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao. </i> <br> -->
@@ -166,9 +171,9 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 </ul>
 </details>
 
-# 💥 Preprints
+<!-- # 💥 Preprints -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reasoningbomb.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reasoningbomb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154)
@@ -179,7 +184,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 - This work introduces ReasoningBomb, an RL-based framework that generates short natural-language prompts to induce pathologically long reasoning in LRMs. Server simulations show just 10% malicious traffic cuts benign throughput by 49.8% while monopolizing 64.3% of compute, posing a severe DoS threat to LRM services.
 - A key improvement is a constant-time surrogate reward that replaces expensive autoregressive victim feedback with a lightweight MLP on frozen hidden states, achieving 4.39×10⁵× training speedup while maintaining strong correlation with actual reasoning length—breaking the self-defeating loop where evaluation cost grows with attack success.
 </div>
-</div>
+</div> -->
 
 # 📝 Selected Publications
 
@@ -205,6 +210,19 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 
 [**Project Page**](https://autodans.github.io/AutoDAN-Turbo) \| [![](https://img.shields.io/github/stars/SaFoLab-WISC/AutoDAN-Turbo?style=social&label=Code Stars)](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)
 - We propose AutoDAN-Turbo, a black-box jailbreak method that can automatically discover as many jailbreak strategies as possible from scratch, without any human intervention or predefined scopes (e.g., specified candidate strategies), and use them for red-teaming. Notably, AutoDAN-Turbo achieves an 88.5 attack success rate on GPT-4-1106-turbo. In addition, AutoDAN-Turbo is a unified framework that can incorporate existing human-designed jailbreak strategies in a plug-and-play manner. By integrating human-designed strategies, AutoDAN-Turbo can even achieve a higher attack success rate of 93.4 on GPT-4-1106-turbo.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2026</div><img src='images/reasoningbomb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154)
+
+**Xiaogeng Liu**, Xinyan Wang, Yechao Zhang, Sanjay Kariyappa, Chong Xiang, Muhao Chen, G. Edward Suh, Chaowei Xiao
+
+[**Project Page**](https://reasoningbomb.github.io/) 
+- This work introduces ReasoningBomb, an RL-based framework that generates short natural-language prompts to induce pathologically long reasoning in LRMs. Server simulations show just 10% malicious traffic cuts benign throughput by 49.8% while monopolizing 64.3% of compute, posing a severe DoS threat to LRM services.
+- A key improvement is a constant-time surrogate reward that replaces expensive autoregressive victim feedback with a lightweight MLP on frozen hidden states, achieving 4.39×10⁵× training speedup while maintaining strong correlation with actual reasoning length—breaking the self-defeating loop where evaluation cost grows with attack success.
 </div>
 </div>
 
