@@ -47,6 +47,9 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 </ul>
 <ul>
     <li>
+        [2025-10] &nbsp;🎉 <span style="color:red">Honored to be selected</span> as one of the <a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold" target="_blank"> Gold Reviewers for ICML 2026</a>! <br> 
+    </li>
+    <li>
         [2026-04] One paper is accepted by CCS 2026, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2602.00154" target="_blank">"ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models"</a> <br> 
         <i><strong>Xiaogeng Liu</strong>, Xinyan Wang, Yechao Zhang, Sanjay Kariyappa, Chong Xiang, Muhao Chen, G. Edward Suh, Chaowei Xiao. </i> <br>
@@ -307,6 +310,7 @@ Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>
 # 🎖 Honors and Awards
 - *2024.12* <span style="color:red;">NVIDIA 2025-2026 Graduate Fellowship</span>
 - *2024.08* <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)
+- *2026.05* ICML 2026 Gold Reviewer
 - *2026.01* Jane Street Graduate Research Fellowship (GRF) Honorable Mention
 - *2025.10* NeurIPS 2025 Top Reviewer
 - *2022.10* Chinese National Scholarship (Top 1%)
