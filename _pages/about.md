@@ -47,7 +47,10 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 </ul>
 <ul>
     <li>
-        [2025-10] &nbsp;🎉 <span style="color:red">Honored to be selected</span> as one of the <a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold" target="_blank"> Gold Reviewers for ICML 2026</a>! <br> 
+        [2026-08] &nbsp;🎉 Thrilled to receive a <a href="https://thinkingmachines.ai/news/tinker-research-and-teaching-grants/" target="_blank">Tinker Research Grant</a>! Many thanks to Thinking Machines Lab for the support! <br> 
+    </li>
+    <li>
+        [2026-05] &nbsp;🎉 <span style="color:red">Honored to be selected</span> as one of the <a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold" target="_blank"> Gold Reviewers for ICML 2026</a>! <br> 
     </li>
     <li>
         [2026-04] One paper is accepted by CCS 2026, thanks for all of my collaborators. <br> 
