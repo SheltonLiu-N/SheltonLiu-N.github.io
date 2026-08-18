@@ -311,9 +311,9 @@ Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>
 </div>
 
 # 🎖 Honors and Awards
-<ul class="news-list">
-    <li><i>2024.12</i> <span style="color:red;">NVIDIA 2025-2026 Graduate Fellowship</span></li>
-    <li><i>2024.08</i> <span style="color:red;">Distinguished Paper Award</span> in 33rd USENIX Security Symposium (USENIX Security'24)</li>
+<ul class="news-list" style="margin-bottom: 0;">
+    <li><i>2024.12</i> NVIDIA 2025-2026 Graduate Fellowship</li>
+    <li><i>2024.08</i> Distinguished Paper Award in 33rd USENIX Security Symposium (USENIX Security'24)</li>
     <li><i>2026.01</i> Jane Street Graduate Research Fellowship (GRF) Honorable Mention</li>
 </ul>
 
