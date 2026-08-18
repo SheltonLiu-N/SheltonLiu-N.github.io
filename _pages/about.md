@@ -323,6 +323,22 @@ Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>
 - *2023.09 - 2025.06*, Ph.D, University of Wisconsin-Madison, Madison, Wisconsin, USA.
 - *2020.09 - 2023.06*, Master, Huazhong University of Science and Technology, Wuhan, Hubei, China.
 
+# 🏛️ Sponsors {#sponsors}
+My research is generously supported by:
+<style>
+  .funding-logos { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 40px; margin: 0.6em 0 1.5em 0; }
+  .funding-logos a { display: inline-flex; align-items: center; line-height: 0; border-bottom: none !important; }
+  .funding-logos img { height: 36px; width: auto; max-width: 100%; }
+  .funding-logos img.logo-js  { height: 40px; }
+  .funding-logos img.logo-tml { height: 44px; }
+</style>
+<div class="funding-logos">
+  <a href="https://research.nvidia.com/graduate-fellowships/2025" target="_blank" title="NVIDIA Graduate Fellowship"><img src="images/funding/nvidia.svg" alt="NVIDIA"></a>
+  <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2026/" target="_blank" title="Jane Street Graduate Research Fellowship"><img class="logo-js" src="images/funding/jane-street.svg" alt="Jane Street"></a>
+  <a href="https://thinkingmachines.ai/news/tinker-research-and-teaching-grants/" target="_blank" title="Thinking Machines Lab — Tinker Research Grant"><img class="logo-tml" src="images/funding/thinking-machines.png" alt="Thinking Machines Lab"></a>
+  <a href="https://www.amazon.science/nova-ai-challenge/teams/safolab" target="_blank" title="Amazon Nova AI Challenge — SafoLab"><img src="images/funding/amazon-science.svg" alt="Amazon Science"></a>
+</div>
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
