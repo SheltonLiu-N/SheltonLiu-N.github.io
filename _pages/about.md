@@ -47,6 +47,11 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 </ul>
 <ul>
     <li>
+        [2026-04] Three paper is accepted by NeurIPS 2026, thanks for all of my collaborators. <br> 
+        <a href="https://arxiv.org/abs/2605.21606" target="_blank">"When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning"</a> <br> 
+        <i><strong>Xiaogeng Liu</strong>, Xinyan Wang, Yingzi Ma, Yechao Zhang, Chaowei Xiao. </i> <br>
+    </li>
+    <li>
         [2026-08] &nbsp;🎉 Thrilled to receive a <a href="https://thinkingmachines.ai/news/tinker-research-and-teaching-grants/" target="_blank">Tinker Research Grant</a>! Many thanks to Thinking Machines Lab for the support! <br> 
     </li>
     <li>
