@@ -47,7 +47,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
 </ul>
 <ul>
     <li>
-        [2026-04] Three paper is accepted by NeurIPS 2026, thanks for all of my collaborators. <br> 
+        [2026-09] Three papers are accepted by NeurIPS 2026, thanks for all of my collaborators. <br> 
         <a href="https://arxiv.org/abs/2605.21606" target="_blank">"When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning"</a> <br> 
         <i><strong>Xiaogeng Liu</strong>, Xinyan Wang, Yingzi Ma, Yechao Zhang, Chaowei Xiao. </i> <br>
     </li>
@@ -154,7 +154,7 @@ I am always open to collaboration and the exchange of ideas. If you'd like to di
         <a href="https://artofrobust.github.io/#challenge">CVPR2022 Art Of Robustness Workshop: Open-Set Defence</a> (Rank 3/156).
     </li>
     <li>
-        [2022-02] One paper is shared at CVPR 2022 Art Of Robustness Workshop, thanks for all of my collaborators. <br>
+        [2022-02] One competition paper is shared at AAAI 2022 Workshop on Adversarial Machine Learning and Beyond, thanks for all of my collaborators. <br>
         <!-- <a href="https://arxiv.org/abs/2203.03810" target="_blank">"Towards Efficient Data-Centric Robust Machine Learning with Noise-Based Augmentation"</a> <br>
         <i><strong>Xiaogeng Liu</strong>, Haoyu Wang, Yechao Zhang, Fangzhou Wu, Shengshan Hu.</i> -->
     </li>
@@ -271,7 +271,7 @@ Zhiyuan Yu, **Xiaogeng Liu**, Shunning Liang, Zach Cameron, Chaowei Xiao, Ning Z
 Hao Li<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Ning Zhang, Chaowei Xiao
 
 [**Project Page**](https://injecguard.github.io) \| [**Model**](https://huggingface.co/leolee99/InjecGuard) \| [**Dataset**](https://huggingface.co/datasets/leolee99/NotInject) \| [**Press (mozilla.ai)**](https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/) 
-- We propose PIGuard, a lightweight model designed to defend against prompt injection attacks. It delivers strong performance across benign, malicious, and over-defense accuracy metrics, surpassing existing guard models such as PromptGuard, ProtectAIv2, and LakeraAI. Despite its compact size, with model parameters of only 184MB, PIGuard achieves competitive performance comparable to advanced commercial large language models like GPT-4.
+- We propose PIGuard, a lightweight model designed to defend against prompt injection attacks. It delivers strong performance across benign, malicious, and over-defense accuracy metrics, surpassing existing guard models such as PromptGuard, ProtectAIv2, and LakeraAI. Despite its compact size, with only about 184M parameters, PIGuard achieves competitive performance comparable to advanced commercial large language models like GPT-4o.
 - We also introduce [NotInject](https://huggingface.co/datasets/leolee99/NotInject), an evaluation dataset that systematically measures over-defense across various prompt guard models.
 </div>
 </div>
@@ -292,7 +292,7 @@ Yu Wang<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Yu Li, Muhao Che
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 and SafeBench Award</div><img src='images/jailbreakv28k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)
+[JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)
 
 Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></strong>, Xiaoyu Guo, Chaowei Xiao
 
@@ -307,7 +307,7 @@ Weidi Luo<sup>*</sup>, Siyuan Ma<sup>*</sup>, <strong>Xiaogeng Liu<sup>*</sup></
 
 [Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.19373)
 
-Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao
+Weidi Luo<sup>*</sup>, Tianyu Lu<sup>*</sup>, Qiming Zhang<sup>*</sup>, <strong>Xiaogeng Liu</strong>, Bin Hu, Yue Zhao, Jieyu Zhao, Song Gao, Patrick McDaniel, Zhen Xiang, Chaowei Xiao
 
 [**Project Page**](https://doxbench.github.io/) \| [**Media Press (机器之心 Synced)**](https://mp.weixin.qq.com/s/_pDsKWz9f9rjXFHWN2UJ_A) \| <strong>23,000+</strong> views, <strong>1,300+</strong> shares
 - We introduce a three-level visual privacy risk framework to categorize and evaluate the potential for location inference from images. We also present DoxBench, a new dataset of 500 real-world images designed to test various privacy scenarios, and find that advanced AI models consistently surpass non-expert humans in geolocation tasks.
@@ -327,7 +327,7 @@ Weidi Luo<sup>*</sup>, Qiming Zhang<sup>*</sup>, Tianyu Lu<sup>*</sup>, <strong>
 - *2022.10* Chinese National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2025.09 - present*, Ph.D, Johns Hopkins University, Baltimore, Maryland, USA.
+- *2025.08 - present*, Ph.D, Johns Hopkins University, Baltimore, Maryland, USA.
 - *2023.09 - 2025.06*, Ph.D, University of Wisconsin-Madison, Madison, Wisconsin, USA.
 - *2020.09 - 2023.06*, Master, Huazhong University of Science and Technology, Wuhan, Hubei, China.
 
