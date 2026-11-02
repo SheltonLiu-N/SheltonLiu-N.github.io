@@ -21,7 +21,7 @@ My name is Xiaogeng Liu (Chinese: 刘晓耕), currently a fourth-year Ph.D. stud
 
 I am always open to collaboration and the exchange of ideas. If you'd like to discuss potential research opportunities or simply connect, please don't hesitate to reach out to me at **xliu316@jhu.edu**
 
-**I am actively seeking opportunities starting in Fall 2027. Please feel free to reach out!**
+<span style="color:red"><strong>I am actively seeking full-time research positions starting in Fall 2027. Please feel free to <a href="mailto:xliu316@jhu.edu">reach out</a>!</strong></span>
 
 # 🔥 News
 (<sup>*</sup> represents equal contribution)
